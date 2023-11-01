@@ -1,0 +1,7 @@
+site_name: Wiki Wiki
+theme:
+  name: windmill
+  locale: pt_BR
+  nav:
+  - Home: index.md
+
